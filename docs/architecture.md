@@ -55,6 +55,3 @@ VPC Flow Logs feed analysis through Athena. CloudWatch dashboards and alarms sup
 
 The DR environment is documented as a pilot-light network skeleton in a second Region with zero running compute in the lab's idle state. This is a design and lab exercise, not evidence of a fully active production failover deployment.
 
-## Diagram
-
-Add a sanitized, readable diagram as `diagrams/architecture.png`. Do not use a screenshot that exposes AWS account IDs, public IPs, ARNs, private keys, or console account details.
