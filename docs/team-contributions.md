@@ -69,7 +69,3 @@ This page summarizes the workstream ownership recorded in the final project repo
 ## Shared responsibility — T68 final teardown
 
 All five members participated in the dependency-ordered cleanup documented in the report. The report states that lab resources across both Regions were removed after verification to avoid ongoing charges.
-
-## Attribution guidance
-
-When publishing evidence, keep screenshots grouped by workstream and label them with the relevant task or outcome. Do not imply that every member implemented every component; use the ownership above and note cross-workstream support where documented.
