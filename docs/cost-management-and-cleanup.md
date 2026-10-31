@@ -21,6 +21,3 @@ The teardown included hybrid VPN and Transit Gateway components, PrivateLink res
 
 AWS pricing and service behavior can change. Review current pricing and account-specific free-tier/credit conditions before recreating the lab. Do not deploy all components from this report without a cost estimate and teardown checklist.
 
-## Public evidence
-
-Do not publish billing console screenshots that reveal account identifiers, billing details, contact information, or other unrelated account data. Keep only the information necessary to substantiate the project's cost-control approach.
