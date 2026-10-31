@@ -23,8 +23,6 @@ The design brings together:
 
 ![Secure AWS Network Architecture](diagrams/architecture.png)
 
-This is a **conceptual summary**, not a substitute for the detailed diagram. Add the reviewed diagram under [`diagrams/`](diagrams/README.md).
-
 ## Team contributions
 
 The project was delivered by five team members. The detailed responsibility matrix is in [`docs/team-contributions.md`](docs/team-contributions.md).
