@@ -32,4 +32,3 @@ GuardDuty sample findings are test fixtures. They should be labeled as sample da
 - A high-level incident-response flow diagram.
 - A test log showing the quarantine action and the rollback/recovery procedure.
 
-Never commit access tokens, secrets, private keys, or raw logs containing sensitive personal or infrastructure details.
