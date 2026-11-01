@@ -26,4 +26,3 @@ This was a lab design and pilot-light skeleton. Do not describe it as a fully ex
 7. Monitor the recovery environment and communicate status.
 8. Document failback criteria and the post-incident review.
 
-These steps are a suggested runbook structure; they should be reconciled with the team's actual DR document before being represented as implemented project procedures.
