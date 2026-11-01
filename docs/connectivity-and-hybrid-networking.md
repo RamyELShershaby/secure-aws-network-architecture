@@ -33,10 +33,3 @@ The report records an initial failed reachability test, followed by a successful
 
 Direct Connect was a concepts-only deliverable. It was not deployed because the lab did not have the required physical colocation or partner circuit and the associated cost was outside the lab's cost constraints.
 
-## Evidence checklist
-
-For each connectivity method, publish a sanitized evidence pair:
-1. Configuration/status screenshot.
-2. A test result showing the expected path, protocol, and outcome.
-
-Remove account identifiers, endpoint details that should remain private, and all credentials/private keys before publication.
