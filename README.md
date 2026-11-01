@@ -21,11 +21,11 @@ The design brings together:
 
 ## Architecture at a glance
 
-![Secure AWS Network Architecture](Project_Diagram/AWS-Secure-Network-Architecture-68-Tasks.png)
+![Secure AWS Network Architecture](01_Project_Diagram/AWS-Secure-Network-Architecture-68-Tasks.png)
 
 ## Team contributions
 
-The project was delivered by five team members. The detailed responsibility matrix is in [`Project_Documents/team-contributions.md`](Project_Documents/team-contributions.md).
+The project was delivered by five team members. The detailed responsibility matrix is in [`02_Project_Documents/team-contributions.md`](02_Project_Documents/team-contributions.md).
 
 | Team member | Primary workstream |
 |---|---|
@@ -47,14 +47,14 @@ Final cleanup was documented as a shared team activity. See the detailed contrib
 - Implemented and documented network telemetry, threat queries, alarms, and an automated quarantine workflow.
 - Documented disaster-recovery planning and a dependency-ordered teardown after verification.
 
-For test details and caveats, see [`Project_Documents/testing-and-validation.md`](Project_Documents/testing-and-validation.md) and [`Project_Documents/limitations-and-lessons-learned.md`](Project_Documents/limitations-and-lessons-learned.md).
+For test details and caveats, see [`02_Project_Documents/testing-and-validation.md`](02_Project_Documents/testing-and-validation.md) and [`02_Project_Documents/limitations-and-lessons-learned.md`](02_Project_Documents/limitations-and-lessons-learned.md).
 
 ## Repository map
 
 ```text
-Project_Diagram/    Sanitized architecture diagram
-Project_Documents/  Architecture, team ownership, security, connectivity, monitoring, testing, DR and cost notes
-Evidence/           Five evidence sections containing sanitized screenshots and test results
+01_Project_Diagram/    Sanitized architecture diagram
+02_Project_Documents/  Architecture, team ownership, security, connectivity, monitoring, testing, DR and cost notes
+03_Evidence/           Five evidence sections containing sanitized screenshots and test results
 ```
 
 ## Security and publication notice
