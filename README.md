@@ -21,42 +21,7 @@ The design brings together:
 
 ## Architecture at a glance
 
-```text
-                         Users
-                           |
-                      Route 53 DNS
-                           |
-                 CloudFront + AWS WAF
-                    + Shield Standard
-                           |
-              +------------+-------------+
-              |                          |
-       Private S3 origin             /api/*, /health/*
-       via CloudFront OAC                   |
-                                      Application Load
-                                         Balancer
-                                              |
-                               +--------------+--------------+
-                               |                             |
-                         Private App A                 Private App B
-                               |                             |
-                               +-------------+---------------+
-                                             |
-                                      Isolated RDS tier
-
-    Production VPC <---- Peering / PrivateLink / Transit Gateway ----> Shared Services VPC
-          |                                                           |
-     VPC Endpoints                                                SSM access
-          |
-     Site-to-Site VPN / Client VPN demonstrations
-          |
-   Simulated on-premises network
-
-    Flow Logs → Athena / CloudWatch → GuardDuty / EventBridge → Lambda response
-    Pilot-light DR VPC in a second AWS Region
-```
-
-This is a **conceptual summary**, not a substitute for the detailed diagram. Add the reviewed diagram under [`diagrams/`](diagrams/README.md).
+![Secure AWS Network Architecture](diagrams/architecture.png)
 
 ## Team contributions
 
