@@ -25,6 +25,3 @@ Professional project documentation should make limitations explicit instead of p
 - Evidence should be captured as part of testing, then redacted before publication.
 - Cost controls and teardown are part of cloud engineering, not an afterthought.
 
-## Review before publication
-
-Confirm all claims against the final report and evidence. If a feature was planned, documented conceptually, or partially tested, label it that way.
