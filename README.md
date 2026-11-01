@@ -21,7 +21,7 @@ The design brings together:
 
 ## Architecture at a glance
 
-![Secure AWS Network Architecture](diagrams/architecture.png)
+![Secure AWS Network Architecture](diagrams/AWS-Secure-Network-Architecture-68-Tasks.png)
 
 ## Team contributions
 
