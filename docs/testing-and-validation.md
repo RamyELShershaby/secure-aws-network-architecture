@@ -35,7 +35,3 @@ The report records a successful TCP connection to the private endpoint on port 8
 ## WAF testing
 
 The edge workstream documents an XSS test request blocked with HTTP 403 in the tested maintenance-distribution path. WAF managed-rule availability and operating mode varied with the account plan; see the limitations page.
-
-## Evidence publishing rules
-
-For each screenshot, include a concise caption, the test objective, expected outcome, actual outcome, and any caveat. Redact all account IDs, ARNs, endpoint identifiers, public IPs, email addresses, certificates, private keys, and other secrets.
